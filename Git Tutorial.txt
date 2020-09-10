@@ -17,6 +17,8 @@ How to clone, add file and commit using Git:
 
 4) Push
 -type git push
+or 
+-type git push origin master
 
 
 -
