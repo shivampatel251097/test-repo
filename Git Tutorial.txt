@@ -24,7 +24,9 @@ or
 -type git push origin master
 
 5) Checkout new branch-goto new branch 
--git checkout -b <branch>
+-git checkout  <branch>
+6) To come back to master	 
+-git checkout master
 
 <---------------------------------------------------------------------------------------------------------------------------->
 
