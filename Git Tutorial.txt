@@ -1,0 +1,22 @@
+How to clone, add file and commit using Git:
+
+1) Clone
+
+-open git bash in folder
+-copy link to directory from github(one time only)
+-cmd->git clone [link]without braces
+
+2) Add file
+
+-type add [file name]
+-for checking status type git status
+
+3) Commit
+
+-type git commit -m "commit message"
+
+4) Push
+-type git push
+
+
+-
