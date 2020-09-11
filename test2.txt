@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-testkmdjkh
-=======
-abc
->>>>>>> test2
+abchdfgkdjfkl
