@@ -33,7 +33,15 @@ or
 7) To create new branch
 -git checkout -b <branch name>
 
-8)
+8) To merger branch with master
+-git checkout master
+-git pull origin master
+-git merge <branch name eg-test2>
+git push origin master
+
+9)To abort merge
+"git merge --abort
+
 
 <-------------------------------------------------------------------------------------------------------------------------->
 
