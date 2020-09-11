@@ -12,7 +12,11 @@ How to clone, add file and commit using Git:
 -for checking status type git status
 
 3) To add/update all the deleted files[it includes all deleted and changed files all at once]
--git add -u
+-git add -A stages all changes
+
+-git add . stages new files and modifications, without deletions
+
+-git add -u stages modifications and deletions, without new files
 
 3) Commit
 
@@ -33,8 +37,8 @@ or
 7) To create new branch
 -git checkout -b <branch name>
 
-8) To merger branch with master
--git checkout master
+8) To merger branch with master or with another branch
+-git checkout master/mergebranch
 -git pull origin master
 -git merge <branch name eg-test2>
 git push origin master
