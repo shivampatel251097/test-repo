@@ -23,12 +23,20 @@ How to clone, add file and commit using Git:
 or 
 -type git push origin master
 
+
 5) Checkout new branch-goto new branch 
--git checkout -b <branch>
+-git checkout  <branch>
+
 6) To come back to master	 
 -git checkout master
 
-<---------------------------------------------------------- 	-------------------------------------------------------------->
+7) To create new branch
+-git checkout -b <branch name>
+
+8)To abort merge
+"git merge --abort
+
+<-------------------------------------------------------------------------------------------------------------------------->
 
 
 -
